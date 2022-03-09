@@ -12,9 +12,10 @@ function App() {
   );
 }
 
-// export default App;
+export default App;
 
 
+//React Hooks count example
 // import React, {useState} from 'react';
 // import './App.css';
 
