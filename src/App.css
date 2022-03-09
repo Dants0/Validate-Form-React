@@ -3,8 +3,17 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  /* url("https://images.pexels.com/photos/631477/pexels-photo-631477.jpeg?cs=srgb&dl=pexels-neale-lasalle-631477.jpg&fm=jpg"); */
+  background-size: cover;
+  background-position: center;
 }
 
+body{
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
 /* 
 *{
   background: #C9D6FF;  /* fallback for old browsers 

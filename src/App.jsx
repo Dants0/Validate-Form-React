@@ -45,8 +45,8 @@ function App() {
       id:5,
       name:"cpassword",
       type:"password",
-      placeholder:"Cpassword",
-      label:"Cpassword"
+      placeholder:"Confirm password",
+      label:"Confirm password"
     },
   ];
 
