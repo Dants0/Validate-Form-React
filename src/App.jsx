@@ -81,6 +81,8 @@ function App() {
         ))}
         <button>Submit</button>
       </form>
+      <form action={handleSubmit}>
+      </form>
     </div>
   );
 }
